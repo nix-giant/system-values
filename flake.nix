@@ -1,1 +1,1 @@
-{ outputs = { ... }: { value = "possible-value"; }; }
+{ outputs = { ... }: { value = "aarch64-darwin"; }; }
